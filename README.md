@@ -3,4 +3,6 @@ DNN-Text-Classifiers After the advent of convolutional and recurrent neural netw
 
 # Final year project 
 Project Contributers : 
-(M.Harish)[https://github.com/mharish2797/] , Teja Surya . H (myself), R.Tharanidharan . 
+- [M.Harish](https://github.com/mharish2797/)
+- Teja Surya . H (myself)
+- R.Tharanidharan . 
